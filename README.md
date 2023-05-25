@@ -1,6 +1,6 @@
 # 👋 Welcome to the Xeenon Streamer Assets Repo 🚀
 
-## 🎨🎬 Home for Visual Assets for Streamers Provided by Graviton 4 Xeenon 🖥️💡
+## 🎨🎬 Home for Visual Assets for Streamers Provided by Graviton 🖥️💡
 
 ### 🌟 About
 
