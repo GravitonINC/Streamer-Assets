@@ -37,7 +37,7 @@ These assets are provided under the MIT License. Check out [LICENSE.md](LICENSE.
 
 Got questions or suggestions? Feel free to reach out to us:
 
-- 📧 Email: [support@graviton.com](mailto:support@graviton.com)
+- 📧 Email: [support@graviton.xyz](mailto:support@graviton.xyz)
 - 🐦 Twitter: [@Xeenon_xyz](https://twitter.com/Xeenon_xyz)
 - 🐦 Twitter: [@Graviton_xyz](https://twitter.com/Graviton_xyz)
 
