@@ -31,7 +31,7 @@ We 💖 contributions. If you have any ideas or assets that you think would bene
 
 ### 📝 License
 
-These assets are provided under the MIT License. Check out [LICENSE.md](LICENSE.md) for more details.
+These assets are provided under the MIT License. Check out [LICENSE.md](LICENSE) for more details.
 
 ### 💌 Contact
 
