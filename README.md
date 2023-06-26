@@ -43,3 +43,10 @@ Got questions or suggestions? Feel free to reach out to us:
 
 ## 💫 Let's make your stream shine with Graviton and Xeenon 💫
 
+# 💼🌐 Brandkits
+If you are looking for more "professional" guidlines on how to represent our brands for official promotional material you can find out brandkits in these repos for Xeenon and Graviton below
+
+[Xeenon Brandkit](https://github.com/GravitonINC/brandkit-xeenon)
+
+[Graviton Brandkit](https://github.com/GravitonINC/brandkit-graviton)
+
