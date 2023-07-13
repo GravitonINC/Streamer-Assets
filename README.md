@@ -50,3 +50,10 @@ If you are looking for more "professional" guidlines on how to represent our bra
 
 [Graviton Brandkit](https://github.com/GravitonINC/brandkit-graviton)
 
+# 🔗🌐  Outside Links  
+
+[OBS](https://obsproject.com/) : Open source RTMP streaming software for Mac/PC
+[OBS Multistream Plug In](https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/) : Plug In for OBS to stream to multiple RTMP server's at once
+
+
+
