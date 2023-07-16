@@ -60,5 +60,7 @@ If you are looking for more "professional" guidlines on how to represent our bra
 
 [Nox](https://www.bignox.com/) : Android emulator for your desktop so you can stream easily
 
+[Bluestacks](https://www.bluestacks.com/) : Mobile emulator for your desktop
+
 
 
