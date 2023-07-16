@@ -56,7 +56,9 @@ If you are looking for more "professional" guidlines on how to represent our bra
 
 [OBS Multistream Plug In](https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/) : Plug In for OBS to stream to multiple RTMP server's at once
 
-[Stylized Chat Overlay](https://github.com/steveseguin/social_stream) : requires some technical knowhow. 
+[Stylized Chat Overlay](https://github.com/steveseguin/social_stream) : requires some technical know-how
+
+[Nox](https://www.bignox.com/) : Android emulator for your desktop so you can stream easily
 
 
 
